@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOurInclude.a  CMakeFiles/OurInclude.dir/gauss-seidel.cpp.o CMakeFiles/OurInclude.dir/gauss-jacobi.cpp.o CMakeFiles/OurInclude.dir/func-auxiliares.cpp.o
+/usr/bin/ranlib libOurInclude.a

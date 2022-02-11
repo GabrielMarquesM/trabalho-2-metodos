@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/func-auxiliares.cpp
+func-auxiliares.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/func-auxiliares.hpp
+
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/func-auxiliares.hpp
+iostream
+-
+vector
+-
+cmath
+-
+algorithm
+-
+iomanip
+-
+
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/gauss-jacobi.cpp
+gauss-jacobi.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/gauss-jacobi.hpp
+
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/gauss-jacobi.hpp
+func-auxiliares.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/func-auxiliares.hpp
+
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/gauss-seidel.cpp
+gauss-seidel.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/gauss-seidel.hpp
+
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/gauss-seidel.hpp
+func-auxiliares.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/include/func-auxiliares.hpp
+

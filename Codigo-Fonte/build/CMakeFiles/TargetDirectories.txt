@@ -1,0 +1,6 @@
+/mnt/c/Users/raske/Desktop/trabalho2metodos/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/raske/Desktop/trabalho2metodos/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/raske/Desktop/trabalho2metodos/build/CMakeFiles/trabalho2metodos.dir
+/mnt/c/Users/raske/Desktop/trabalho2metodos/build/include/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/raske/Desktop/trabalho2metodos/build/include/CMakeFiles/edit_cache.dir
+/mnt/c/Users/raske/Desktop/trabalho2metodos/build/include/CMakeFiles/OurInclude.dir

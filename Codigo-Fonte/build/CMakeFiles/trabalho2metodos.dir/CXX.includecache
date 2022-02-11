@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/func-auxiliares.hpp
+iostream
+-
+vector
+-
+cmath
+-
+algorithm
+-
+iomanip
+-
+
+../include/gauss-jacobi.hpp
+func-auxiliares.hpp
+../include/func-auxiliares.hpp
+
+../include/gauss-seidel.hpp
+func-auxiliares.hpp
+../include/func-auxiliares.hpp
+
+/mnt/c/Users/raske/Desktop/trabalho2metodos/main.cpp
+func-auxiliares.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/func-auxiliares.hpp
+gauss-jacobi.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/gauss-jacobi.hpp
+gauss-seidel.hpp
+/mnt/c/Users/raske/Desktop/trabalho2metodos/gauss-seidel.hpp
+
